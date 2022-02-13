@@ -6,7 +6,7 @@ const end = document.querySelector('.change');
 
 let finishText;
 let playingNow = 'O';
-let play ;
+let play;
 // getting current player
 const changeLights = function () {
   if (playingNow === 'O') {
@@ -119,6 +119,7 @@ const checkingVictory = function (cellArray) {
 const gameEnds = function () {
   end.classList.remove('show');
   play = false;
+  playerTurn.classList.remove('player-two', 'player-one');
 };
 const displayWinner = function () {
   finishText = playingNow === 'O' ? `player 01 wins` : `player 02 wins`;

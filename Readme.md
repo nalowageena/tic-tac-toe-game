@@ -17,4 +17,4 @@
 - Display result at the end of a game (i.e winner in case there is or tie game in case there is a draw)
 
 ![image](./images/capture.png)
-![image](./images/capture1.png)
+![image](./images/capture2.png)
