@@ -16,5 +16,5 @@
 - Display cell values( 'O' or 'X') on click depending on the player.
 - Display result at the end of a game (i.e winner in case there is or tie game in case there is a draw)
 
-![image](./images/capture.png)
-![image](./images/capture2.png)
+![image](https://github.com/nalowageena654/tic-tac-toe-game/blob/main/images/Capture.PNG)
+![image](https://github.com/nalowageena654/tic-tac-toe-game/blob/main/images/Capture2.PNG)
